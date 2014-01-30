@@ -1,0 +1,22 @@
+Plan :
+
+Plan is to create a reports directory and work in this repository and see the changes on Github
+
+So I created an empty repository in Github and cloned it in my system .
+so the initial branch will be master . 
+
+Created a new branch develop and doing the  developments there .
+
+Commands used :
+git clone https://github.com/manikanta-kondeti/Reports-
+git add *
+git commit -am ""
+git branch develop
+git checkout develop 
+
+Now I have to do merge both of the files .
+git checkout master 
+git merge 
+git push 
+
+
