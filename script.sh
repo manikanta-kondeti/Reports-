@@ -9,5 +9,5 @@ git add *
 git commit -am "In master"
 git status
 git checkout develop
-
+git push 
 echo "Done Bitch";
