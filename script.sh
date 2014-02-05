@@ -10,4 +10,4 @@ git commit -am "In master"
 git status
 git checkout develop
 git push 
-echo "Done Bitch";
+echo "You're Awesome :D !! Done Bitch";
