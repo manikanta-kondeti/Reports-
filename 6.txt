@@ -1,0 +1,14 @@
+Read a research paper on Vehicle Routing Problem Pickup and Delivery ::
+
+Summary of what I think :-
+Out of all pickup and delivery problems , This is the basic and important of all and also a basic state state.
+
+Static Single Vehicle Pickup and Delivery Problem:
+
+	Objective :
+	Objective is to minimize a weighted combination of the time  needed to serve all clients and total degree of dissatisfaction clients experience until their		 delivering.
+	i.e -     Min(w1*T +  w2* (sum (wi*a+(2-a)*Ri)) )
+
+	T - Route length 
+	Wi - Waiting for client i 
+	Ri - Riding time of client i from  pickup to delivery 
