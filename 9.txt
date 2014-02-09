@@ -1,5 +1,6 @@
 February 9th  ::
 
+-----Hackathon 
 48hour Hackathon at Google Hyderabad office. It was fantastic and very useful to learn about cordova , facebook joining them. 
 Learnt Node js a bit and  tried to write in it. (Worked efficiently for half of the time)
 
@@ -12,7 +13,18 @@ We need opening login button through internal app.
 So we have first implemented the example in the given site and later combined with our app. It was perfectly mixed :) 
 
 
-About Routing: 
+-----About Routing: 
 
 Have to read the research paper and follow that algorithm to get it perfectly done. 
 Monday free - complete it as soon as possible.
+
+
+-----What I understood about pgrouting :
+
+each algorithm has some similar set of directories.
+/src /sql /doc /tools /test /tester
+In src dir we have the c file which is used to read the tuples from databses. 
+A .h file which stores all the definitions of data structures. 
+An a wrapper file which has the algorithm implemented in it. 
+
+Read from database-- Using SPI Interface.
