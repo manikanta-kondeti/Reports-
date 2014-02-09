@@ -1,10 +1,18 @@
 February 9th  ::
 
 48hour Hackathon at Google Hyderabad office. It was fantastic and very useful to learn about cordova , facebook joining them. 
-Learnt Node js a bit and  tried to write in it. 
+Learnt Node js a bit and  tried to write in it. (Worked efficiently for half of the time)
 
 Useful links to integrate this cordova into mobile app.
 https://github.com/phonegap/phonegap-facebook-plugin
 Errors faced: No proper implementation of the example given in the site.  
+Method Followed: 
+Facebook has two types methods for its app environment in the mobile. 
+We need opening login button through internal app.  
+So we have first implemented the example in the given site and later combined with our app. It was perfectly mixed :) 
 
 
+About Routing: 
+
+Have to read the research paper and follow that algorithm to get it perfectly done. 
+Monday free - complete it as soon as possible.
