@@ -1,0 +1,10 @@
+February 9th  ::
+
+48hour Hackathon at Google Hyderabad office. It was fantastic and very useful to learn about cordova , facebook joining them. 
+Learnt Node js a bit and  tried to write in it. 
+
+Useful links to integrate this cordova into mobile app.
+https://github.com/phonegap/phonegap-facebook-plugin
+Errors faced: No proper implementation of the example given in the site.  
+
+
