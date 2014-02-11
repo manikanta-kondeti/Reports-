@@ -1,0 +1,27 @@
+February 10  :
+
+--- Paper on Symmetric and asymmetric VRP with Simultaneous Pick-up and Delivery.
+
+This is called VRP-SDP. It is an extension to CVRP.Let us assume set C will be of customers. 
+So each customer needs two things 1.) Pick-up and Delivery. 
+
+----Objectives :
+Set of routes that minimizes the transportation costs (or) distances traveled , where the customer demands are satisfied and vehicle load capacities are not exceeded anytime. 
+
+--- Sec 2 : 
+
+It explains all practical applications that can be done using this algorithm. 
+
+----Sec 4 :
+
+In this section it explains about all the mathematical models that can help in solving the problem.
+
+Model -1 :
+Vehicle Flow Model.
+
+Model -2 :
+Commodity flow model.
+
+I suggest you to directly read sec-1 and sec-4
+
+
